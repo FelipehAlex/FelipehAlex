@@ -22,5 +22,3 @@
   <div> 
   <a href="https://www.linkedin.com/in/felipe-alex-b4bb671a4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-  
-<img height="180em" src="https://64.media.tumblr.com/d6a2d2ec12e8aaedc12a4123357879f5/tumblr_mm4tqm2CaT1rfjowdo1_500.gifv">
