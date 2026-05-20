@@ -110,5 +110,5 @@ const Felipe = {
 ---
 
 <div align="center">
-  <i>⭐ May the <code>Force</code> be with you. Always. 🌌</i>
+  <i>⭐ May the <code>Force</code> be with you. 🌌</i>
 </div>
