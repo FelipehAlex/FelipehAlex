@@ -110,5 +110,5 @@ const Felipe = {
 ---
 
 <div align="center">
-  <i>⭐ Se algum projeto te ajudou, deixa uma estrela! Significa muito 😊</i>
+  <i>⭐ May the <code>Force</code> be with you. Always. 🌌</i>
 </div>
